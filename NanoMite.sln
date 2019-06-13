@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoMite", "NanoMite\NanoMite.csproj", "{7C1B7012-C500-4AB6-8AAD-CAD86FD567FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskSpaceMite", "DiskSpaceMite\DiskSpaceMite.csproj", "{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mite", "Mite\Mite.csproj", "{247281B6-6FA0-46F7-87BE-9D3C90093C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMite", "ProcessMite\ProcessMite.csproj", "{49E36165-84D7-4574-957A-9557AC90E0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemMemoryMite", "SystemMemoryMite\SystemMemoryMite.csproj", "{EB1780A4-D097-4E54-8E07-8A5ED26B6582}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mites", "Mites", "{D680B7C9-5FB9-4AEC-8EA3-ACC49CA4A06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C1B7012-C500-4AB6-8AAD-CAD86FD567FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1B7012-C500-4AB6-8AAD-CAD86FD567FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1B7012-C500-4AB6-8AAD-CAD86FD567FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1B7012-C500-4AB6-8AAD-CAD86FD567FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247281B6-6FA0-46F7-87BE-9D3C90093C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247281B6-6FA0-46F7-87BE-9D3C90093C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247281B6-6FA0-46F7-87BE-9D3C90093C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247281B6-6FA0-46F7-87BE-9D3C90093C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E36165-84D7-4574-957A-9557AC90E0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E36165-84D7-4574-957A-9557AC90E0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E36165-84D7-4574-957A-9557AC90E0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E36165-84D7-4574-957A-9557AC90E0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1780A4-D097-4E54-8E07-8A5ED26B6582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1780A4-D097-4E54-8E07-8A5ED26B6582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1780A4-D097-4E54-8E07-8A5ED26B6582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1780A4-D097-4E54-8E07-8A5ED26B6582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7DB06B7-7D22-400A-9CBA-6409D6CBDEA4} = {D680B7C9-5FB9-4AEC-8EA3-ACC49CA4A06F}
+		{49E36165-84D7-4574-957A-9557AC90E0A4} = {D680B7C9-5FB9-4AEC-8EA3-ACC49CA4A06F}
+		{EB1780A4-D097-4E54-8E07-8A5ED26B6582} = {D680B7C9-5FB9-4AEC-8EA3-ACC49CA4A06F}
+	EndGlobalSection
+EndGlobal

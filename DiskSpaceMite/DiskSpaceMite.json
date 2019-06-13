@@ -1,0 +1,17 @@
+﻿{
+  "drive-heartbeat-html": "Drive '[DRIVE-NAME]' has [DRIVE-FREE-SPACE] space free.",
+  "drive-not-found-exception-html": "Drive '[DRIVE-NAME]' not found.",
+  "drive-below-min-exception-html": "Drive '[DRIVE-NAME]' with [DRIVE-FREE-SPACE] space free is below the minimum threshold of [DRIVE-MIN-FREE-SPACE] GB.",
+  "list-drive-console-text": "Drive '[DRIVE-NAME]' has [DRIVE-FREE-SPACE] space free.",
+
+  "drives-to-monitor": [
+    {
+      "name": "/",
+      "min-size-gb": "10000000000"
+    },
+    {
+      "name": "A:",
+      "min-size-gb": "100"
+    }
+  ]
+}

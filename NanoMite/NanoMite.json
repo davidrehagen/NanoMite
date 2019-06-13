@@ -1,0 +1,16 @@
+﻿{
+  "mite-plugin-path":"./Plugins",
+  
+  "computer-name": "Test Server",
+  "heartbeat-email-subject": "Heartbeat from [COMPUTER-NAME]",
+  "checkup-email-subject": "Checkup failed on [COMPUTER-NAME]",
+  
+  "email-settings": {
+    "from": "system@thinkgeo.com",
+    "to": "system@thinkgeo.com"
+  },
+  "aws-ses-settings": {
+    "key": "AKIAIEGPQJEOU7FE544Q",
+    "secret": "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"
+  }
+}

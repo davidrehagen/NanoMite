@@ -1,0 +1,21 @@
+﻿{
+  "process-heartbeat-html": "Process '[PROCESS-NAME]' is using [PROCESS-MEMORY] of memory.",
+  "process-not-found-exception-html": "Process '[PROCESS-NAME]' is required to be running but was not found.",
+  "process-above-max-exception-html": "Process '[PROCESS-NAME]' is using [PROCESS-MEMORY] of memory, which is above the maximum threshold of [PROCESS-MAX-MEMORY] MB.",
+  "list-process-text": "Process '[PROCESS-NAME]' is using [PROCESS-MEMORY].",
+
+  "processes-to-monitor": [
+    {
+      "name": "java",
+      "max-size-mb": "100"
+    },
+    {
+      "name": "dotnet",
+      "max-size-mb": "1"
+    },
+    {
+      "name": "abc123",
+      "max-size-mb": "100"
+    }
+  ]
+}
